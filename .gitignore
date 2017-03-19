@@ -13,7 +13,6 @@ hs_err_pid*
 #ignorar todos os diretorios listados abaixo em qualquer subdiretorio
 work_space/
 build/
-dist/
 trash/
 ignore/
 private/
